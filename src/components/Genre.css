@@ -1,0 +1,9 @@
+.genre {
+  border: 1px solid #777;
+  cursor: pointer;
+}
+
+.genre.active{
+  background: #ddd;
+  cursor: pointer;
+}
